@@ -7,10 +7,5 @@ module.exports = {
         './resources/views/**/*.blade.php',
         './resources/js/**/*.js',
         './resources/js/**/*.jsx',
-    ],
-    theme: {
-        extend: {
-            
-        },
-    },
+    ]
 };

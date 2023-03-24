@@ -1,2 +1,2 @@
 require('./bootstrap');
-require('./Todo');
+require('./Apps/TodoApp');
